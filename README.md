@@ -7,7 +7,7 @@
  - BS (Finance) | University of Karachi (_Dec 2010_)
 
 ### Work Experience
-Business Analyst @ Silicon Valley Commerce (_Jan 2022 - Present_)**
+Business Analyst @ Silicon Valley Commerce (_Jan 2022 - Present_)
  - Big impact project 1!
  - Big impact project 2!
 
