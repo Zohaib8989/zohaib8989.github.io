@@ -1,7 +1,7 @@
-# Data Analayst
+# Data Analyst
 
 ### Education
-MBA Fiannca
+MBA Finance
 
 ### Work Experience
 Business Analyst @ Silicon Valley Commerce
