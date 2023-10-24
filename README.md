@@ -1,5 +1,7 @@
 # Data Analyst
 
+### Technical Skills: SQL, Microsoft Power BI, Microsoft Excel
+
 ### Education
 MBA Finance
 
